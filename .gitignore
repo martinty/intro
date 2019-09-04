@@ -1,0 +1,4 @@
+build/*
+program/*
+.vs*
+.DS*
